@@ -91,7 +91,7 @@ html {
 .sidebar-about .profile-picture {
   margin: 0 auto;
   border-radius: 50%;
-  border: 3px solid #71a15c;
+  border: 3px solid #eb99a1;
   max-width: 5rem;
 }
 
@@ -105,16 +105,16 @@ html {
   border-radius: .35rem;
   margin: 0.2rem auto;
   padding: 0.25rem 0.5rem;
-  background: #89ba73;
+  background: #eeaab1;
   width: 100%;
 }
 a.sidebar-cv-item:hover,
 a.sidebar-cv-item:focus {
-  background: #93c47d;
+  background: #eeaab1;
   text-decoration: none;
 }
 .sidebar-cv-item.active {
-  color: #93c47d;
+  color: #eeaab1;
   background: #fff;
 }
 a.sidebar-cv-item.active:hover,
@@ -130,7 +130,7 @@ a.sidebar-cv-item.active:focus {
 .sidebar-nav-item {
   display: inline-block;
   padding: .25rem 0.5rem;
-  background: #89ba73;
+  background: #eeaab1;
   margin: 0 .1rem;
   border-radius: .35rem;
   text-transform: uppercase;
@@ -141,11 +141,11 @@ a.sidebar-cv-item.active:focus {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  background: #93c47d;
+  background: #eeaab1;
   text-decoration: none;
 }
 .sidebar-nav-item.active {
-  color: #93c47d;
+  color: #eeaab1;
   background: #fff;
 }
 a.sidebar-nav-item.active:hover,
@@ -256,6 +256,15 @@ a.sidebar-nav-item.active:focus {
 .theme-base-0a .content a,
 .theme-base-0a .related-posts li a:hover {
   color: #f4bf75;
+}
+
+/* Pink */
+.themePink .sidebar {
+  background-color: #e78892;
+}
+.themePink .content a,
+.themePink .related-posts li a:hover {
+  color: #e78892;
 }
 
 /* Green */
