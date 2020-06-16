@@ -1,3 +1,9 @@
 .headerimg {
   max-height: 400px;
 }
+
+figcaption {
+  font-size: 0.8rem;
+  text-align: center;
+  color: #b0b0b0;
+}
