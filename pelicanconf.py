@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-STATIC_PATHS = ['images', 'pages']
+STATIC_PATHS = ['images', 'pages', 'files']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -34,10 +34,9 @@ DELETE_OUTPUT_DIRECTORY = True
 # Blogroll
 LINKS = (('About', '/about'),
          ('CV', '/pages/cv.pdf'),
-         ('Projects', '/projects')
+         ('Programming Projects', '/programmingprojects'),
+         ('UX Projects', '/category/ux')
          )
-
-
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/CWJWANJING'),

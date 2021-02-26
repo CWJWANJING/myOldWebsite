@@ -1,5 +1,5 @@
-Title: Projects
-Slug: projects
+Title: Programming Projects
+Slug: programmingprojects
 Date: 2021-01-18
 
 

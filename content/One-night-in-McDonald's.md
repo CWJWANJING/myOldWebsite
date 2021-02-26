@@ -2,6 +2,7 @@ Title: An international student in Edinburgh - Part 1
 Date: 2020-06-04
 Tags: first, stories
 Slug: Edinburgh
+Category: Life
 Authors: Wanjing Chen
 lang: en
 Summary: <img src="/images/macdonald/airport.jpg" alt="" class="headerimg"/> This is the story of my first evening in Edinburgh. Something unexpected happened...

@@ -2,6 +2,7 @@ Title: An international student in Edinburgh - Part 2
 Date: 2020-06-16
 Tags: stories
 Slug: Riego-street
+Category: Life
 Authors: Wanjing Chen
 Summary: <img src="/images/riego/riegostreet.jpg" alt="" class="headerimg"/> I didn’t get my first choice of accommodation at the University of Edinburgh, I ended up in ***Riego Street***, but I had a good experience.
 
