@@ -1,7 +1,7 @@
 Title: Usability Study of iPhone X Side Button
-Date: 2021
+Date: 2021-03-09
 Tags: uxr
-Category: UXR
+Category: UX
 Slug: iPhoneXSideButton
 Authors: Wanjing Chen
 Summary: <img src="/images/iPhoneX_SideButton/summaryimage.png" alt="" class="headerimg"/>I performed a study regarding the usability of the iPhone X Side Button in 2020 as a course project for the course *Human Factor: Working with Users*. Back then, social distancing just introduced due to COVID-19, I did the study a bit differently.

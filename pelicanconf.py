@@ -35,7 +35,7 @@ DELETE_OUTPUT_DIRECTORY = True
 LINKS = (('About', '/about'),
          ('CV', '/pages/cv.pdf'),
          ('Programming Projects', '/programmingprojects'),
-         ('UXR Projects', '/category/uxr')
+         ('UX Projects', '/category/ux')
          )
 
 # Social widget
