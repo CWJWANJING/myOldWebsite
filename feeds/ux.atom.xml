@@ -4,15 +4,25 @@
 &lt;p&gt;For Android smartphones and previous iPhones before the iPhone X, long-pressing the side button will allow users to shut down the phone. The iPhone X subverts this expected behaviour by instead launching Siri. Users will be confused when encountering this behaviour for the first time. &lt;em&gt;(Reddit, 2018)&lt;/em&gt; The number of times people searching 'shut down iPhone' increased a lot after the iPhone X released. &lt;em&gt;(Wikipedia, 2020)&lt;/em&gt; &lt;em&gt;(Google trends, 2020)&lt;/em&gt; Shutting down the iPhone X is more complicated now, requiring the user to simultaneously hold one of the volume buttons and the power button. Then the screen will display a "slide to power off" bar that the user can use to power off the device. &lt;em&gt;(Apple support, 2020)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I wanted to find out the possible reasons for Apple to change the side button's functionality and ways to make the button more usable. I, therefore, focused on testing users' attitudes toward the change and their potential suggestions.&lt;/p&gt;
 &lt;p&gt;&lt;img class="image"&gt;
-  &lt;img src="/images/iPhoneX_SideButton/side_button.png" alt=""&gt;
+  &lt;img src="/images/iPhoneX_SideButton/side_button.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" alt=""&gt;
   &lt;figcaption&gt;The Side Button&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img class="image"&gt;
-  &lt;img src="/images/iPhoneX_SideButton/trriger_siri.png" alt=""&gt;
+  &lt;img src="/images/iPhoneX_SideButton/trriger_siri.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;" alt=""&gt;
   &lt;figcaption&gt;Triggers Siri&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img class="image"&gt;
-  &lt;img src="/images/iPhoneX_SideButton/power_off.png" alt=""&gt;
+  &lt;img src="/images/iPhoneX_SideButton/power_off.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;" alt=""&gt;
   &lt;figcaption&gt;Power off&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img class="image"&gt;
