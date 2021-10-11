@@ -40,7 +40,7 @@ LINKS = (('About', '/about'),
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/CWJWANJING'),
-          ('twitter', 'http://twitter.com/wanjingchen')
+          ('linkedin','https://www.linkedin.com/in/wanjingchen/')
           )
 
 # Services

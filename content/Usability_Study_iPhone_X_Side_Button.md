@@ -15,17 +15,27 @@ For Android smartphones and previous iPhones before the iPhone X, long-pressing 
 I wanted to find out the possible reasons for Apple to change the side button's functionality and ways to make the button more usable. I, therefore, focused on testing users' attitudes toward the change and their potential suggestions.
 
 <img class="image">
-  <img src="/images/iPhoneX_SideButton/side_button.png" alt="">
+  <img src="/images/iPhoneX_SideButton/side_button.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" alt="">
   <figcaption>The Side Button</figcaption>
 </img>
 
 <img class="image">
-  <img src="/images/iPhoneX_SideButton/trriger_siri.png" alt="">
+  <img src="/images/iPhoneX_SideButton/trriger_siri.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;" alt="">
   <figcaption>Triggers Siri</figcaption>
 </img>
 
 <img class="image">
-  <img src="/images/iPhoneX_SideButton/power_off.png" alt="">
+  <img src="/images/iPhoneX_SideButton/power_off.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;" alt="">
   <figcaption>Power off</figcaption>
 </img>
 
