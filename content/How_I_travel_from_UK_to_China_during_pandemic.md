@@ -187,7 +187,7 @@ Later about 9 days in my quarantine, I started to struggle a bit. Good thing tha
 </img>
 
 <img class="image">
-  <img src="/images/UKtoChina/hotelmeal2.heic" style="display: block;
+  <img src="/images/UKtoChina/hotelmeal2.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
@@ -197,7 +197,7 @@ Later about 9 days in my quarantine, I started to struggle a bit. Good thing tha
 On the 14th day of my quarantine, I got transferred from Jiaxing to Hangzhou and started the final 7 days of my quarantine. The hotel I stayed in was a relatively old hotel, but I was on a very high floor so the view was better than the previous hotels.
 
 <img class="image">
-  <img src="/images/UKtoChina/view.jpg" style="display: block;
+  <img src="/images/UKtoChina/view.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
