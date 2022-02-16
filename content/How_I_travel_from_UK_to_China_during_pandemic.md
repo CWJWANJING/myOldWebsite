@@ -64,7 +64,7 @@ I filled out a few extra forms and had all the negative test results. One day be
 Getting onto the first plane was not that different from pre-COVID time. After arriving at Helsinki Vantaa airport, I headed to the transfer service desk. There was a long queue. I showed the staff my green QR code, my passport. Then they pointed me to the PCR + IgM antibody test area. They did the nose + the blood test. The nurse who did the nose went really deep inside. It feels like it reaches my throat from my nose... There was also quite a bit of waiting.
 
 <img class="image">
-  <img src="/images/UKtoChina/HELairport.jpg" style="display: block;
+  <img src="/images/UKtoChina/HELairport.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
@@ -72,7 +72,7 @@ Getting onto the first plane was not that different from pre-COVID time. After a
 </img>
 
 <img class="image">
-  <img src="/images/UKtoChina/queueTransferService.jpg" style="display: block;
+  <img src="/images/UKtoChina/queueTransferService.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
@@ -82,7 +82,7 @@ Getting onto the first plane was not that different from pre-COVID time. After a
 Due to COVID restrictions, the airport hotel was closed. So any overnight transfer passengers need to stay overnight at the airport. I made a mistake by taking the overnight bag with me to the testing point. It was inconvenient to hold with your arms. I should have picked up the bag after I did the test because the bags were right next to the transfer service desk.
 
 <img class="image">
-  <img src="/images/UKtoChina/overnightbagcollection.jpg" style="display: block;
+  <img src="/images/UKtoChina/overnightbagcollection.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
@@ -93,7 +93,7 @@ Due to COVID restrictions, the airport hotel was closed. So any overnight transf
 The overnight bag includes a pair of slippers, a travel kit with a toothbrush and toothpaste, some moisturisers, earplugs and an eye mask, as well as the quilt and pillow. A bottle of water. The quilt was a bit thin. It was quite cold at the airport. I didn't sleep well at the airport. I was on my period. My body felt heavy and sore. There were some ambient sounds next to the spot I planned to sleep in. It was loud, and the light was bright. With the help of earplugs and the eye mask, I managed to sleep for 5 hours.
 
 <img class="image">
-  <img src="/images/UKtoChina/travelkit.jpg" style="display: block;
+  <img src="/images/UKtoChina/travelkit.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
@@ -101,7 +101,7 @@ The overnight bag includes a pair of slippers, a travel kit with a toothbrush an
 </img>
 
 <img class="image">
-  <img src="/images/UKtoChina/slippers.jpg" style="display: block;
+  <img src="/images/UKtoChina/slippers.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
@@ -114,7 +114,7 @@ The next day was pretty easy. I waited for the result to come out and then used 
 The flight journey was mostly the same before COVID. Except, you know for big planes they have 3 columns of seats (As labeled 1,2,3 on the picture below). For the side columns (Column 1 & 3), I think they manually make the middle seat empty. It was good for me. I don’t usually like the window seats. It’s not convenient for me to go to the toilet and it feels like less legroom than the corridor seat. In this case, it was good for me.
 
 <img class="image">
-  <img src="/images/UKtoChina/planeColumns.jpg" style="display: block;
+  <img src="/images/UKtoChina/planeColumns.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:70%;" alt="">
@@ -149,7 +149,7 @@ Also, after quarantine in Shanghai, I need to take a train to Hangzhou, and if t
 The hotels are all randomly assigned to people and you need to pay by yourself. The one in Shanghai that was assigned to me wasn't that great. The hotel is quite old, and I needed to wipe the furniture inside myself. They were dusty. I wasn't sure why it was like that. They did allow essential goods delivery and food that does not need extra care to be stored at normal temperature. It was a twin-bed room. Once I stepped inside the room, I cannot step outside of the room until quarantine ended. There was a small desk outside the door for placing food and parcel deliveries, I could open the door to collect food which the staff delivers. I can open the windows too.
 
 <img class="image">
-  <img src="/images/UKtoChina/ShanghaiHotel.jpg" style="display: block;
+  <img src="/images/UKtoChina/ShanghaiHotel.jpeg" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width:100%;" alt="">
