@@ -4,7 +4,7 @@ Tags: stories
 Category: Life
 Slug: enterChinaduringCOVID
 Authors: Wanjing Chen
-Summary: <img src="/images/UKtoChina/HEL-PVGplane.JPG" alt="" class="headerimg"/>Entering China during the pandemic is really hard. I will be sharing with you how I travelled from the UK to China during the pandemic as a Chinese citizen.
+Summary: <img src="/images/UKtoChina/HEL-PVGplane.jpeg" alt="" class="headerimg"/>Entering China during the pandemic is really hard. I will be sharing with you how I travelled from the UK to China during the pandemic as a Chinese citizen.
 
 ## Trip Preparation
 I'm a Chinese citizen who lives in the UK. I'm from Hangzhou, China. This article explains how I travelled home during the pandemic.
