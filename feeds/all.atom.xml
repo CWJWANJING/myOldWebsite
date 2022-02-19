@@ -1,5 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Wanjing Chen</title><link href="https://cwjwanjing.github.io/" rel="alternate"></link><link href="https://cwjwanjing.github.io/feeds/all.atom.xml" rel="self"></link><id>https://cwjwanjing.github.io/</id><updated>2022-02-16T00:00:00+01:00</updated><entry><title>How I travelled from the UK to China during the pandemic</title><link href="https://cwjwanjing.github.io/blog/enterChinaduringCOVID" rel="alternate"></link><published>2022-02-16T00:00:00+01:00</published><updated>2022-02-16T00:00:00+01:00</updated><author><name>Wanjing Chen</name></author><id>tag:cwjwanjing.github.io,2022-02-16:/blog/enterChinaduringCOVID</id><summary type="html">&lt;p&gt;&lt;img src="/images/UKtoChina/HEL-PVGplane.jpeg" alt="" class="headerimg"/&gt;Entering China during the pandemic is really hard. I will be sharing with you how I travelled from the UK to China during the pandemic as a Chinese citizen.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Trip Preparation&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Wanjing Chen</title><link href="https://cwjwanjing.github.io/" rel="alternate"></link><link href="https://cwjwanjing.github.io/feeds/all.atom.xml" rel="self"></link><id>https://cwjwanjing.github.io/</id><updated>2022-02-19T00:00:00+01:00</updated><entry><title>Mukulele - Ukulele learning app</title><link href="https://cwjwanjing.github.io/blog/ukuleleLearningApp" rel="alternate"></link><published>2022-02-19T00:00:00+01:00</published><updated>2022-02-19T00:00:00+01:00</updated><author><name>Wanjing Chen</name></author><id>tag:cwjwanjing.github.io,2022-02-19:/blog/ukuleleLearningApp</id><summary type="html">&lt;p&gt;&lt;img src="/images/mukulele/finalDesign.png" alt="" class="headerimg"/&gt;Mukulele is a ukulele learning app that aims to motivate users to keep practising everyday.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;The problem&lt;/h2&gt;
+&lt;p&gt;I wanted to help people who don’t have time to practice and learn the ukulele every day because I have a ukulele, and I found it hard to keep learning and practising the ukulele. According to the survey I did for people who are interested in ukulele or ukulele learners (around 20), this is the most common pain point they have.&lt;/p&gt;
+&lt;h2&gt;The solution&lt;/h2&gt;
+&lt;p&gt;I designed a ukulele learning app that will motivate people to play the ukulele every day. It minimizes the time that people need to spend on the ukulele while still making progress, and has a virtual pet to keep them entering the app every day.&lt;/p&gt;
+&lt;h2&gt;My role&lt;/h2&gt;
+&lt;p&gt;I ran the entire project by myself by doing the survey to find out people’s needs and made the persona according to the needs and pain points I found. I also did the customer journey map, paper prototyping, low fidelity prototype and high fidelity prototype, and conducted the usability test.&lt;/p&gt;
+&lt;h2&gt;Empathise with users&lt;/h2&gt;
+&lt;p&gt;To empathise with users and find out their needs I did surveys from people who are interested in Ukulele or have experience with it. I sent out the surveys on social media and in the end, 21 people responded. After summarising the results, here’s the persona I created based on the top three needs and pain points:
+&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/persona.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;User Persona&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;h2&gt;Ideate solutions&lt;/h2&gt;
+&lt;p&gt;I did some research on existing Ukulele learning apps, such as Yousician. I adapted the gamified song challenge concept. As illustrated in the final design section. I used the &lt;a href="https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-scamper#:~:text=SCAMPER%20is%20an%20acronym%20formed,helps%20you%20explore%20new%20possibilities."&gt;SCAMPER&lt;/a&gt; method to ideate and used the persona to produce the user journey map.
+&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/customerJourneyMap.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Customer Journey Map&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;h2&gt;Sketching &amp;amp; Wireframing&lt;/h2&gt;
+&lt;p&gt;I started the design process by sketching on paper. I jotted down my very initial thoughts of what the main functions of this app should look like and what elements it should have.
+&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/Paper Prototype.JPG"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;" alt=""&gt;
+  &lt;figcaption&gt;Paper Prototype&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;h2&gt;Testing my design&lt;/h2&gt;
+&lt;p&gt;I did two runs of user evaluation with 5 people each run using the low-fidelity prototype shown in Figure 1. I used the think-aloud method to ask them to perform a few tasks and asked them to fill out a survey afterwards. Their feedback after the first user evaluation is summarised in Figure 2 and 3. And my changed design is shown in Figure 4 and 5.
+&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/low-fi prototype.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Figure 1, First Design&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/1strunproblem1.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Figure 2, Problems raised after first user evaluation&lt;/figcaption&gt;
+&lt;/img&gt;
+The main problems were solved by having names under each icon.
+&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/1strunproblem2.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Figure 3, Things to add suggested by the participants from the first user evaluation&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/low-fiPrototypeImproved1.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Figure 4, Improved Design after first user evaluation&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/low-fiPrototypeImproved2.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Figure 5, Improved Design after first user evaluation&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;h2&gt;Final results&lt;/h2&gt;
+&lt;p&gt;After two runs of user evaluation, the suggested improvements are summarised in Figure 6 and 7. I changed the design accordingly.
+&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/2ndrunproblem1.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Figure 6, Problems raised after first user evaluation&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/2ndrunproblem2.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;Figure 7, Things to add suggested by the participants from the first user evaluation&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="image"&gt;
+  &lt;img src="/images/mukulele/finalDesign.png"
+  style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" alt=""&gt;
+  &lt;figcaption&gt;The final design&lt;/figcaption&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;h2&gt;Self-reflection&lt;/h2&gt;
+&lt;p&gt;This is my first user design case study. I’ve familiarised myself with the design process. I haven’t applied any colours to the design yet, which could be an extension project.&lt;/p&gt;</content><category term="uxd"></category></entry><entry><title>How I travelled from the UK to China during the pandemic</title><link href="https://cwjwanjing.github.io/blog/enterChinaduringCOVID" rel="alternate"></link><published>2022-02-16T00:00:00+01:00</published><updated>2022-02-16T00:00:00+01:00</updated><author><name>Wanjing Chen</name></author><id>tag:cwjwanjing.github.io,2022-02-16:/blog/enterChinaduringCOVID</id><summary type="html">&lt;p&gt;&lt;img src="/images/UKtoChina/HEL-PVGplane.jpeg" alt="" class="headerimg"/&gt;Entering China during the pandemic is really hard. I will be sharing with you how I travelled from the UK to China during the pandemic as a Chinese citizen.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Trip Preparation&lt;/h2&gt;
 &lt;p&gt;I'm a Chinese citizen who lives in the UK. I'm from Hangzhou, China. This article explains how I travelled home during the pandemic.&lt;/p&gt;
 &lt;p&gt;Until December 2021, China only allowed limited airlines to enter and a limited number of flights per week. Finnair was one of the permitted airlines, so I booked my flight with them. Each week there's only one day that has flights. I booked the flight with the shortest duration, 29 h 35 min:&lt;/p&gt;
 &lt;ul&gt;
