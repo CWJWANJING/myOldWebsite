@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Wanjing Chen</title><link href="https://cwjwanjing.github.io/" rel="alternate"></link><link href="https://cwjwanjing.github.io/feeds/all.atom.xml" rel="self"></link><id>https://cwjwanjing.github.io/</id><updated>2022-02-19T00:00:00+01:00</updated><entry><title>Mukulele - Ukulele learning app</title><link href="https://cwjwanjing.github.io/blog/ukuleleLearningApp" rel="alternate"></link><published>2022-02-19T00:00:00+01:00</published><updated>2022-02-19T00:00:00+01:00</updated><author><name>Wanjing Chen</name></author><id>tag:cwjwanjing.github.io,2022-02-19:/blog/ukuleleLearningApp</id><summary type="html">&lt;p&gt;&lt;img src="/images/mukulele/finalDesign.png" alt="" class="headerimg"/&gt;Mukulele is a ukulele learning app that aims to motivate users to keep practising everyday.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;The problem&lt;/h2&gt;
-&lt;p&gt;I wanted to help people who don’t have time to practice and learn the ukulele every day because I have a ukulele, and I found it hard to keep learning and practising the ukulele. According to the survey I did for people who are interested in ukulele or ukulele learners (around 20), this is the most common pain point they have.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Wanjing Chen</title><link href="https://cwjwanjing.github.io/" rel="alternate"></link><link href="https://cwjwanjing.github.io/feeds/all.atom.xml" rel="self"></link><id>https://cwjwanjing.github.io/</id><updated>2022-02-27T00:00:00+01:00</updated><entry><title>Mukulele - Ukulele learning app</title><link href="https://cwjwanjing.github.io/blog/ukuleleLearningApp" rel="alternate"></link><published>2022-02-27T00:00:00+01:00</published><updated>2022-02-27T00:00:00+01:00</updated><author><name>Wanjing Chen</name></author><id>tag:cwjwanjing.github.io,2022-02-27:/blog/ukuleleLearningApp</id><summary type="html">&lt;p&gt;&lt;img src="/images/mukulele/finalDesign.png" alt="" class="headerimg"/&gt;Mukulele is a ukulele learning app that aims to motivate users to keep practising everyday.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;The problem&lt;/h2&gt;
+&lt;p&gt;I wanted to help people who don’t have time to practice and learn the ukulele every day because I have a ukulele, and I &lt;strong&gt;found it hard to keep learning and practising the ukulele&lt;/strong&gt;. According to the survey I did for people who are interested in ukulele or ukulele learners (around 20), this is the most common pain point they have.&lt;/p&gt;
 &lt;h2&gt;The solution&lt;/h2&gt;
-&lt;p&gt;I designed a ukulele learning app that will motivate people to play the ukulele every day. It minimizes the time that people need to spend on the ukulele while still making progress, and has a virtual pet to keep them entering the app every day.&lt;/p&gt;
+&lt;p&gt;I designed a ukulele learning app that will motivate people to play the ukulele every day. It &lt;strong&gt;minimizes the time that people need to spend on the ukulele while still making progress&lt;/strong&gt;and has a &lt;strong&gt;virtual pet&lt;/strong&gt; to keep them entering the app every day.&lt;/p&gt;
 &lt;h2&gt;My role&lt;/h2&gt;
-&lt;p&gt;I ran the entire project by myself by doing the survey to find out people’s needs and made the persona according to the needs and pain points I found. I also did the customer journey map, paper prototyping, low fidelity prototype and high fidelity prototype, and conducted the usability test.&lt;/p&gt;
+&lt;p&gt;I ran the entire project by myself by surveying to find out people’s needs and made the persona according to the needs and pain points I found. I also did the customer journey map, paper prototyping, low fidelity prototype and high fidelity prototype, and conducted the usability test.&lt;/p&gt;
 &lt;h2&gt;Empathise with users&lt;/h2&gt;
-&lt;p&gt;To empathise with users and find out their needs I did surveys from people who are interested in Ukulele or have experience with it. I sent out the surveys on social media and in the end, 21 people responded. After summarising the results, here’s the persona I created based on the top three needs and pain points:
+&lt;p&gt;To empathise with users and find out their needs I did &lt;strong&gt;surveys from people who are interested in Ukulele or have experience with it&lt;/strong&gt;. Surveying is one of the quickest and easiest ways to gather information in a short amount of time. Plus remaining COVID safe. I sent out the surveys on social media and in the end, 21 people responded. After summarising the results, here’s the persona I created based on the top three needs and pain points:
 &lt;img class="image"&gt;
   &lt;img src="/images/mukulele/persona.png"
   style="display: block;
@@ -16,7 +16,7 @@
   &lt;figcaption&gt;User Persona&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
 &lt;h2&gt;Ideate solutions&lt;/h2&gt;
-&lt;p&gt;I did some research on existing Ukulele learning apps, such as Yousician. I adapted the gamified song challenge concept. As illustrated in the final design section. I used the &lt;a href="https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-scamper#:~:text=SCAMPER%20is%20an%20acronym%20formed,helps%20you%20explore%20new%20possibilities."&gt;SCAMPER&lt;/a&gt; method to ideate and used the persona to produce the user journey map.
+&lt;p&gt;I did some research on existing Ukulele learning apps, such as Yousician. I adapted the &lt;strong&gt;gamified song challenge concept&lt;/strong&gt; to make the practising experience more fun for the users. As illustrated in the final design section. I used the &lt;a href="https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-scamper#:~:text=SCAMPER%20is%20an%20acronym%20formed,helps%20you%20explore%20new%20possibilities."&gt;SCAMPER&lt;/a&gt; method to ideate. I also used the persona to produce an &lt;a href="https://jmspool.medium.com/the-3-steps-for-creating-an-experience-vision-35f9d6ce378b"&gt;experience vision&lt;/a&gt;, which acts as a picture of what users' experience of using the design will be like.
 &lt;img class="image"&gt;
   &lt;img src="/images/mukulele/customerJourneyMap.png"
   style="display: block;
@@ -26,7 +26,7 @@
   &lt;figcaption&gt;Customer Journey Map&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
 &lt;h2&gt;Sketching &amp;amp; Wireframing&lt;/h2&gt;
-&lt;p&gt;I started the design process by sketching on paper. I jotted down my very initial thoughts of what the main functions of this app should look like and what elements it should have.
+&lt;p&gt;I started the design process by &lt;strong&gt;sketching on paper&lt;/strong&gt;. I jotted down my very initial thoughts of what the &lt;strong&gt;main functions&lt;/strong&gt; of this app should look like and what elements it should have.
 &lt;img class="image"&gt;
   &lt;img src="/images/mukulele/Paper Prototype.JPG"
   style="display: block;
@@ -36,7 +36,7 @@
   &lt;figcaption&gt;Paper Prototype&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
 &lt;h2&gt;Testing my design&lt;/h2&gt;
-&lt;p&gt;I did two runs of user evaluation with 5 people each run using the low-fidelity prototype shown in Figure 1. I used the think-aloud method to ask them to perform a few tasks and asked them to fill out a survey afterwards. Their feedback after the first user evaluation is summarised in Figure 2 and 3. And my changed design is shown in Figure 4 and 5.
+&lt;p&gt;I did two runs of &lt;strong&gt;user evaluation&lt;/strong&gt; with 5 people each run using the low-fidelity prototype shown in Figure 1. I used the &lt;strong&gt;think-aloud&lt;/strong&gt; method to ask them to perform a few tasks and asked them to fill out a &lt;strong&gt;survey&lt;/strong&gt; afterwards. Their feedback after the first user evaluation is summarised in Figures 2 and 3. And my changed design is shown in Figures 4 and 5.
 &lt;img class="image"&gt;
   &lt;img src="/images/mukulele/low-fi prototype.png"
   style="display: block;
@@ -52,9 +52,12 @@
   margin-right: auto;
   width: 100%;" alt=""&gt;
   &lt;figcaption&gt;Figure 2, Problems raised after first user evaluation&lt;/figcaption&gt;
-&lt;/img&gt;
-The main problems were solved by having names under each icon.
-&lt;img class="image"&gt;
+&lt;/img&gt;&lt;/p&gt;
+&lt;h4&gt;Adjusted design:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Added names under icons&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img class="image"&gt;
   &lt;img src="/images/mukulele/1strunproblem2.png"
   style="display: block;
   margin-left: auto;
@@ -62,6 +65,14 @@ The main problems were solved by having names under each icon.
   width: 100%;" alt=""&gt;
   &lt;figcaption&gt;Figure 3, Things to add suggested by the participants from the first user evaluation&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
+&lt;h4&gt;Adjusted design:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Added coins indicator&lt;/strong&gt; indicating how many coins users have (&lt;strong&gt;&lt;em&gt;A symbol stating how many coins I have&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Added information of how many coins do each song give users&lt;/strong&gt; (&lt;strong&gt;&lt;em&gt;How many coins do each song give me&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Added options to choose the pet&lt;/strong&gt; (&lt;strong&gt;&lt;em&gt;Options to choose the pet&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Added information of each suggested-to-practice song&lt;/strong&gt; (&lt;strong&gt;&lt;em&gt;Information about the suggested songs, whether they are randomly picked or I learned them&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Added a tuner&lt;/strong&gt; (&lt;strong&gt;&lt;em&gt;A tuner&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img class="image"&gt;
   &lt;img src="/images/mukulele/low-fiPrototypeImproved1.png"
   style="display: block;
@@ -79,7 +90,7 @@ The main problems were solved by having names under each icon.
   &lt;figcaption&gt;Figure 5, Improved Design after first user evaluation&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
 &lt;h2&gt;Final results&lt;/h2&gt;
-&lt;p&gt;After two runs of user evaluation, the suggested improvements are summarised in Figure 6 and 7. I changed the design accordingly.
+&lt;p&gt;After two runs of user evaluation, the suggested improvements are summarised in Figure 6 and 7. I changed the design accordingly. You can find the &lt;strong&gt;interaction design&lt;/strong&gt; &lt;a href="https://www.figma.com/proto/NtW8DKFZKehVt4BqWOJPAG/High-Fidelity-Prototype?node-id=334%3A488&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1&amp;amp;starting-point-node-id=334%3A488"&gt;here&lt;/a&gt;.
 &lt;img class="image"&gt;
   &lt;img src="/images/mukulele/2ndrunproblem1.png"
   style="display: block;
@@ -88,6 +99,12 @@ The main problems were solved by having names under each icon.
   width: 100%;" alt=""&gt;
   &lt;figcaption&gt;Figure 6, Problems raised after first user evaluation&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
+&lt;h4&gt;Adjusted design:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Added feedback when clicking on a page&lt;/strong&gt; by making the page icon darker and having shadows (&lt;strong&gt;&lt;em&gt;Not sure which page I was on&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Renamed the tabs page to be Tabs&lt;/strong&gt; (&lt;strong&gt;&lt;em&gt;Not sure what Tabular means&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Removed check-in button&lt;/strong&gt; because users might just check-in and don’t do any practice. Now if users want to earn coins they will have to either practice a song or learn a new lesson. (&lt;strong&gt;&lt;em&gt;Not sure what the check-in is for exactly&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img class="image"&gt;
   &lt;img src="/images/mukulele/2ndrunproblem2.png"
   style="display: block;
@@ -96,6 +113,11 @@ The main problems were solved by having names under each icon.
   width: 100%;" alt=""&gt;
   &lt;figcaption&gt;Figure 7, Things to add suggested by the participants from the first user evaluation&lt;/figcaption&gt;
 &lt;/img&gt;&lt;/p&gt;
+&lt;h4&gt;Adjusted design:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Added a profile page&lt;/strong&gt; which &lt;strong&gt;shows users’ statistics&lt;/strong&gt; such as learning experience points (&lt;strong&gt;&lt;em&gt;A statistics page to see my progress&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Added plus signs before coins&lt;/strong&gt; to indicate how many coins can users &lt;strong&gt;gain&lt;/strong&gt; when they practice a song or learn a new content (&lt;strong&gt;&lt;em&gt;A better indication that the coins will increase when practicing a song&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img class="image"&gt;
   &lt;img src="/images/mukulele/finalDesign.png"
   style="display: block;
