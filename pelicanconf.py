@@ -35,12 +35,13 @@ DELETE_OUTPUT_DIRECTORY = True
 LINKS = (('About', '/about'),
          ('CV', '/pages/cv.pdf'),
          ('Programming Projects', '/programmingprojects'),
-         ('UX Projects', '/category/ux')
+         ('Blog', '/category/blogs')
          )
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/CWJWANJING'),
-          ('linkedin','https://www.linkedin.com/in/wanjingchen/')
+          ('linkedin','https://www.linkedin.com/in/wanjingchen/'),
+          ('instagram','https://www.instagram.com/wanjingchen_/')
           )
 
 # Services

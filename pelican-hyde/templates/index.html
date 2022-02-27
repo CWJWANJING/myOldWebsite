@@ -1,8 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
+	<h1>UX Case Studies</h1>
+	<div style="clear: both">
+		<br />
+		<br />
+	</div>
 	<div class="posts">
 		{% for article in articles_page.object_list %}
+			{% if article.category=="ux" %}
 			<div class="post">
 				<h1 class="post-title" href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">
 					<a href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">{{ article.title }}</a>
@@ -18,6 +24,7 @@
 				</p>
 				<a class="read-more" href="{{ article.url }}">Continue reading »</a>
 			</div>
+			{% endif %}
 		{% endfor %}
 	</div>
 	<div class="pagination">

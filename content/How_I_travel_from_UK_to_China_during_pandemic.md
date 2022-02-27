@@ -1,7 +1,7 @@
 Title: How I travelled from the UK to China during the pandemic
 Date: 2022-02-16
 Tags: stories
-Category: Life
+Category: Blogs
 Slug: enterChinaduringCOVID
 Authors: Wanjing Chen
 Summary: <img src="/images/UKtoChina/HEL-PVGplane.jpeg" alt="" class="headerimg"/>Entering China during the pandemic is really hard. I will be sharing with you how I travelled from the UK to China during the pandemic as a Chinese citizen.
