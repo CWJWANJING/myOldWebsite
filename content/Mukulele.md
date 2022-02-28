@@ -11,7 +11,7 @@ Summary:<img src="/images/mukulele/finalDesign.png" alt="" class="headerimg"/>Mu
 I wanted to help people who don’t have time to practice and learn the ukulele every day because I have a ukulele, and I **found it hard to keep learning and practising the ukulele**. According to the survey I did for people who are interested in ukulele or ukulele learners (around 20), this is the most common pain point they have.
 
 ##The solution
-I designed a ukulele learning app that will motivate people to play the ukulele every day. It **minimizes the time that people need to spend on the ukulele while still making progress**and has a **virtual pet** to keep them entering the app every day.
+I designed a ukulele learning app that will motivate people to play the ukulele every day. It **minimizes the time that people need to spend on the ukulele while still making progress** and has a **virtual pet** to keep them entering the app every day.
 
 ##My role
 I ran the entire project by myself by surveying to find out people’s needs and made the persona according to the needs and pain points I found. I also did the customer journey map, paper prototyping, low fidelity prototype and high fidelity prototype, and conducted the usability test.
