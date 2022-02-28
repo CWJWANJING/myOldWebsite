@@ -1,5 +1,5 @@
 Title: Mukulele - Ukulele learning app
-Date: 2022-02
+Date: 2022-02-19
 Tags: uxd
 Category: UX
 Slug: ukuleleLearningApp
@@ -50,7 +50,7 @@ I started the design process by **sketching on paper**. I jotted down my very in
 </img>
 
 ##Testing my design
-I did two runs of **user evaluation** with 5 people each run using the low-fidelity prototype shown in Figure 1. I used the **think-aloud** method to ask them to perform a few tasks and asked them to fill out a **survey** afterwards. Their feedback after the first user evaluation is summarised in Figures 2 and 3. And my changed design is shown in Figures 4 and 5.
+I did two runs of **user evaluation** with 5 people each run using the low-fidelity prototype shown in Figure 1. I used the **think-aloud** method to ask them to perform a few tasks and asked them to fill out a **survey** afterwards. I chose think-aloud method is because it's a very efficient way to know users' thoughts while they perform the tasks. Their feedback after the first user evaluation is summarised in Figures 2 and 3. And my changed design is shown in Figures 4 and 5.
 <img class="image">
   <img src="/images/mukulele/low-fi prototype.png"
   style="display: block;
