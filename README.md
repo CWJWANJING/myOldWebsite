@@ -1,5 +1,7 @@
 # CWJWANJING.github.io
 
+## This is my personal website which I used the [Pelican](https://docs.getpelican.com/en/latest/) to generate and develope further.
+
 ## Development instructions
 
 To see the changes you made while developing, run the following command from the root directory of the project:
