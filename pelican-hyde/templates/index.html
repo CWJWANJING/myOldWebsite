@@ -1,14 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-	<h1>UX Case Studies</h1>
+	<h1>My Blogs</h1>
 	<div style="clear: both">
 		<br />
 		<br />
 	</div>
 	<div class="posts">
 		{% for article in articles_page.object_list %}
-			{% if article.category=="ux" %}
+			{% if article.category=="blogs" %}
 			<div class="post">
 				<h2 class="post-title" href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">
 					<a href="{{ SITEURL }}/{{ article.url }}#{{ article.slug }}">{{ article.title }}</a>

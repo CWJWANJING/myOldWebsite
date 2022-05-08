@@ -34,8 +34,9 @@ DELETE_OUTPUT_DIRECTORY = True
 # Blogroll
 LINKS = (('About', '/about'),
          ('CV', '/pages/cv.pdf'),
-         ('Programming Projects', '/programmingprojects'),
-         ('Blog', '/category/blogs')
+         ('Programming', '/programmingprojects'),
+         ('UX', '/category/ux'),
+         ('Art', '/artwork')
          )
 
 # Social widget

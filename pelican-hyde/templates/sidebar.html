@@ -4,7 +4,7 @@
 
 			<h1>
 				<a href="/">
-					<img class="profile-picture" src="{{ SITEURL }}/images/{{ PROFILE_IMAGE }}">
+					<img class="profile-picture" src="{{ SITEURL }}/images/{{ PROFILE_IMAGE }}" >
 					{{ SITENAME }}
 				</a>
 			</h1>
@@ -23,10 +23,23 @@
 			</p> -->
 			<p class="sidebar-cv">
 				{% for name, link in LINKS %}
-					<a class="sidebar-cv-item" href="{{ link }}">
-						<i class="fa fa-{{ name }}"></i>
-						{{ name }}
-					</a>
+					{% if name == 'Programming' %}
+						<p class="h7">Projects</p>
+						<a class="sidebar-cv-projects" href="{{ link }}" style="display: flex; align-items: center; justify-content: center;">
+							<i class="fa fa-{{ name }}" ></i>
+							{{ name }}
+						</a>
+					{% elif name == 'UX' or name == 'Art' %}
+						<a class="sidebar-cv-projects" href="{{ link }}" style="display: flex; align-items: center; justify-content: center;">
+							<i class="fa fa-{{ name }}" ></i>
+							{{ name }}
+						</a>
+					{% else %}
+						<a class="sidebar-cv-item" href="{{ link }}" style="display: flex; align-items: center; justify-content: center;">
+							<i class="fa fa-{{ name }}" ></i>
+							{{ name }}
+						</a>
+					{% endif %}
 				{% endfor %}
 				</a>
 			</p>
