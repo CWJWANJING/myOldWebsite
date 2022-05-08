@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -64,9 +64,9 @@ html {
     position: fixed;
     top: 0;
     left: 0;
+    right: 0;
     bottom: 0;
     width: 18rem;
-    text-align: center;
   }
 }
 
@@ -78,7 +78,9 @@ html {
 /* About section */
 
 .sidebar-about h1 {
+  text-align: center;
   color: #fff;
+  margin-left: 0.5rem;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3rem;
@@ -91,7 +93,7 @@ html {
 .sidebar-about .profile-picture {
   margin: 0 auto;
   border-radius: 50%;
-  border: 3px solid #eb99a1;
+  border: 3px solid #feb0b8;
   max-width: 5rem;
 }
 
@@ -100,21 +102,39 @@ html {
   margin-bottom: 1rem;
 }
 .sidebar-cv-item {
-  float: center;
-  display: block;
+  display:inline-block;
+  text-align-last: center;
   border-radius: .35rem;
-  margin: 0.2rem auto;
-  padding: 0.25rem 0.5rem;
-  background: #eeaab1;
+  margin: 0.15rem auto;
+  padding: 0.5rem 0.5rem; /* the texts are vertically centered*/
+  background: #feb0b8;
   width: 100%;
 }
+
+.sidebar-cv-projects {
+  display: inline-block;
+  /* overflow: hidden; */
+  /* text-align-last: center; */
+  border-radius: .35rem;
+  margin: 0.15rem auto;
+  padding: 0.5rem 0.5rem;
+  background: #feb0b8;
+  width: 100%;
+  /* height: fit-content; */
+  
+}
+
 a.sidebar-cv-item:hover,
 a.sidebar-cv-item:focus {
-  background: #eeaab1;
-  text-decoration: none;
+  background: #fc9ba4;
+  text-decoration-line: underline;
+  font-style: italic;
+  text-decoration-style: wavy;
+  /* padding-top: 0;
+  padding-bottom: 0; */
+  padding: 0.5rem 0.5rem;
 }
 .sidebar-cv-item.active {
-  color: #eeaab1;
   background: #fff;
 }
 a.sidebar-cv-item.active:hover,
@@ -122,27 +142,50 @@ a.sidebar-cv-item.active:focus {
   color: #fff;
 }
 
+a.sidebar-cv-projects:hover,
+a.sidebar-cv-projects:focus {
+  background: #fc9ba4;
+  text-decoration-line: underline;
+  font-style: italic;
+  text-decoration-style: wavy;
+  padding: 0.5rem 0.5rem;
+}
+.sidebar-cv-projects.active {
+  color: #eeaab1;
+  background: #fff;
+}
+a.sidebar-cv-projects.active:hover,
+a.sidebar-cv-projects.active:focus {
+  color: #fff;
+}
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  padding-left: 0.42rem;
+  margin: 0 auto;
+  width: 100%;
+  /* margin-bottom: 0.5rem;
+  margin-left: 0.4rem; */
+  /* padding: 0.1rem 0.1rem; */
 }
 .sidebar-nav-item {
+  align-items: center;
   display: inline-block;
-  padding: .25rem 0.5rem;
-  background: #eeaab1;
-  margin: 0 .1rem;
+  padding: .5rem 0.5rem;
+  background: #feb0b8;
+  margin: auto;
   border-radius: .35rem;
   text-transform: uppercase;
   font-size: .8rem;
   font-weight: bold;
-  float: center;
-  width: 17%;
+  width: 15%;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  background: #eeaab1;
-  text-decoration: none;
+  background: #fc9ba4;
+  text-decoration-line: underline;
+  font-style: italic;
+  text-decoration-style: wavy;
 }
 .sidebar-nav-item.active {
   color: #eeaab1;
@@ -162,9 +205,9 @@ a.sidebar-nav-item.active:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
     bottom: 1rem;
     left:   1rem;
+    right:  1rem; /*left and right margin are equal*/
   }
 }
 
@@ -178,6 +221,8 @@ a.sidebar-nav-item.active:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+  padding-left: 1rem;
+  padding-right: 2rem;
 }
 
 @media (min-width: 48em) {
