@@ -9,14 +9,11 @@ Date: 2022
         <div class="container">
             <div class="gallery">
                 <figure class="gallery__item gallery__item--1">
-                    <img src="images/artgallery/waterstonecafe1.png" alt="Gallery image 1" class="gallery__img">
+                    <img src="images/artgallery/waterstonecafe1.jpeg" alt="Gallery image 1" class="gallery__img">
                 </figure>
                 <figure class="gallery__item gallery__item--2">
-                    <img src="images/artgallery/waterstonecafe2.jpg" alt="Gallery image 2" class="gallery__img">
+                    <img src="images/artgallery/waterstonecafe2.jpeg" alt="Gallery image 2" class="gallery__img">
                 </figure>
-                <!-- <figure class="gallery__item gallery__item--3">
-                    <img src="images/artgallery/waterstonecafe2.jpg" alt="Gallery image 2" class="gallery__img">
-                </figure> -->
             </div>
         </div>
     </gallerybody>
