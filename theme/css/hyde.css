@@ -222,7 +222,7 @@ a.sidebar-nav-item.active:focus {
   padding-top:    4rem;
   padding-bottom: 4rem;
   padding-left: 1rem;
-  padding-right: 2rem;
+  padding-right: 1rem;
 }
 
 @media (min-width: 48em) {
